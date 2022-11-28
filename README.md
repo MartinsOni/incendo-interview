@@ -23,6 +23,7 @@
 
 ### To run the application
 - Type node with the file name in the terminal and run the application (node filename.js)
+- The app is runing on port 8001 (http://localhost:8001//search&artist=(artist name))
 
 ### GitHub procedure
 - Creat a repository
